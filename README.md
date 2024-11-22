@@ -5,10 +5,14 @@ The repository or working directory should be structured as follows:
 ```
 02456/
 ├── data/
-│   ├── ebnerd_demo
-│   ├── ebnerd_large
-│   ├── ebnerd_small
-│   └── ebnerd_testset
+│   ├── ebnerd_demo/
+│   │   └── ...
+│   ├── ebnerd_large/
+│   │   └── ...
+│   ├── ebnerd_small/
+│   │   └── ...
+│   └── ebnerd_testset/
+│   │   └── ...
 ├── parquet_to_csv.py
 ├── summary_statistics.ipynb
 └── ...
