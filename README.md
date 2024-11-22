@@ -1,4 +1,4 @@
-In the root directory of this repository, create a folder titled `data`. Within that folder, add the `ebnerd_demo`, `ebnerd_small`, `ebnerd_large`, and/or `ebnerd_testset` folders.
+In the root directory of this repository, create a folder titled `data`. Within that folder, add the `ebnerd_demo`, `ebnerd_small`, `ebnerd_large`, and/or `ebnerd_testset` folders and their respective data.
 
 The repository or working directory should be structured as follows:
 
