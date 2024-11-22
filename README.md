@@ -7,7 +7,7 @@ data
 ├── ebnerd_demo
 ├── ebnerd_large
 ├── ebnerd_small
-├── ebnerd_testset
+└── ebnerd_testset
 parquet_to_csv.py
 summary_statistics.ipynb
 ...
