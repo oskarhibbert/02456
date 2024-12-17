@@ -13,11 +13,8 @@ The repository or working directory should be structured as follows:
 │   │   └── ...
 │   └── ebnerd_testset/
 │       └── ...
-├── parquet_to_csv.py
-├── summary_statistics.ipynb
+├── feature_engineering.ipynb
 └── ...
 ```
 
-Be sure to include a `.gitignore` file that contains at least `/data` to prevent your client from uploading the large dataset files.
-
-:-)
+Be sure to include a `.gitignore` file that contains at least `/data` and `/data_processed` to prevent your client from uploading the dataset files.
