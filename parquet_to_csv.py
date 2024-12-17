@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Specify the root directory containing the Parquet files
-root_directory = 'ebnerd_demo'
+root_directory = 'data/ebnerd_demo'
 
 # Walk through the directory tree
 for dirpath, _, filenames in os.walk(root_directory):
