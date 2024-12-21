@@ -18,3 +18,5 @@ The repository or working directory should be structured as follows:
 ```
 
 Be sure to include a `.gitignore` file that contains at least `/data` and `/data_processed` to prevent your client from uploading the dataset files.
+
+Please refer to either `environment.yml` or `requirements.txt` for the dependencies.
